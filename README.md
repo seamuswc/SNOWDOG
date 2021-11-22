@@ -1,5 +1,7 @@
 # Snowdog on Thanksgiving
 
+# works on Mac only, pretty sure
+
 ## Installation steps
 
   1) Open your terminal
