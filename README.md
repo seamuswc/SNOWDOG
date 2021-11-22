@@ -16,14 +16,20 @@
   2) Number cannot be 0
   3) Number have commas or decimals
   4) There's basic error checking to enfoce the above
+  5) **ctrl c** will exit the program at any time.
 
 ## Time
-Program loops every 30 seconds.
+Program loops every **30 seconds**.
 It uses coingecko's api, they only allow 50 calls per minute.
 If you edit the program it might not work if you change the repeat time to under 3-2 seconds.
 
 ### Notes
 This assumes ruby is installed on your computer.
+
 It should be by default, if not: https://www.ruby-lang.org/en/documentation/installation/
+
+This also assumes git is installed on your computer.
+
+It should be by default, if not: https://git-scm.com/
 
 
