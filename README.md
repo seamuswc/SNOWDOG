@@ -14,7 +14,7 @@
 ## Rules
   1) Number must be a whole integer
   2) Number cannot be 0
-  3) Number have commas or decimals
+  3) Number cannot have commas or decimals
   4) There's basic error checking to enfoce the above
   5) **ctrl c** will exit the program at any time.
 
